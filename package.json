@@ -22,6 +22,7 @@
     "react": "latest",
     "react-dom": "latest",
     "react-particles": "^2.5.3",
+    "react-scroll": "^1.8.8",
     "tsparticles": "^2.5.3"
   },
   "devDependencies": {

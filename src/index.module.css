@@ -1,0 +1,19 @@
+.sidebarContainer {
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: blueviolet;
+    min-height: inherit;
+}
+
+.mainContainer {
+    width: calc(100vw - 200px);
+    left: 200px;
+    position: relative;
+}
+
+.clickableIcon {
+    cursor: pointer;
+}
